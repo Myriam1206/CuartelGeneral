@@ -1,0 +1,1 @@
+Vehículos: medios de transporte para moverse de un lugar a otro (carros, camiones, motos, etc.).
